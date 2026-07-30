@@ -1,0 +1,1 @@
+print("NAME: T Prem kumar \nAGE: 20\nAI TOOL: Codex")
