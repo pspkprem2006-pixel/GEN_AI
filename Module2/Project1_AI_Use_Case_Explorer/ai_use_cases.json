@@ -1,0 +1,44 @@
+[
+  {
+    "industry": "Finance",
+    "problem": "Flag fraudulent card transactions",
+    "ai_type": "ML (classification / anomaly detection)",
+    "impact": 5,
+    "feasibility": 4
+  },
+  {
+    "industry": "Retail",
+    "problem": "Recommend products to shoppers",
+    "ai_type": "ML (recommendation system)",
+    "impact": 4,
+    "feasibility": 5
+  },
+  {
+    "industry": "Healthcare",
+    "problem": "Detect tumors in X-ray/CT scans",
+    "ai_type": "Deep Learning (computer vision)",
+    "impact": 5,
+    "feasibility": 3
+  },
+  {
+    "industry": "Customer Service",
+    "problem": "Answer FAQs with a chatbot",
+    "ai_type": "Generative AI / NLP",
+    "impact": 3,
+    "feasibility": 5
+  },
+  {
+    "industry": "Agriculture",
+    "problem": "Predict crop disease from leaf photos",
+    "ai_type": "Deep Learning (computer vision)",
+    "impact": 4,
+    "feasibility": 2
+  },
+  {
+    "industry": "Education",
+    "problem": "Predict student dropout",
+    "ai_type": "ML (classification)",
+    "impact": 4,
+    "feasibility": 4
+  }
+]

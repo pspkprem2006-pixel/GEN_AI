@@ -1,0 +1,22 @@
+========================================
+       STUDENT MARKS REPORT
+========================================
+
+Marks Chart (each * = 10 marks):
+Aarav      | ********* 92
+Ayesha     | ******** 88
+Rahul      | **** 47
+Sneha      | ******* 76
+Arjun      | *** 34
+Priya      | ********* 90
+
+----------------------------------------
+SUMMARY STATISTICS
+----------------------------------------
+Count     : 6
+Total     : 427
+Average   : 71.17
+Highest   : 92
+Lowest    : 34
+Passed    : 5
+Failed    : 1

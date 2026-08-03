@@ -1,0 +1,40 @@
+{
+  "name": "Test Project",
+  "stages": [
+    {
+      "stage": "Problem Definition",
+      "status": "Done",
+      "notes": "Pulled 1 year of data"
+    },
+    {
+      "stage": "Data Collection",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "stage": "Data Preparation & Cleaning",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "stage": "EDA & Feature Engineering",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "stage": "Model Building & Training",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "stage": "Model Evaluation",
+      "status": "Not Started",
+      "notes": ""
+    },
+    {
+      "stage": "Deployment & Monitoring",
+      "status": "Not Started",
+      "notes": ""
+    }
+  ]
+}
