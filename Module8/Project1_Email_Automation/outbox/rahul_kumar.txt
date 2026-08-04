@@ -1,0 +1,25 @@
+To: rahul@example.com
+Subject: A quick update from the AI Program team
+Date: 2026-08-04 10:02:31
+==================================================
+
+Subject: A quick update from the AI Program team
+
+Dear Rahul Kumar,
+
+This is a personalized update from the AI Program team.
+
+We wanted to reach out regarding your role as Software Engineer. The AI Powered Engineering
+Upskilling Program is making great progress, and we're excited to share some updates
+with you.
+
+Key highlights:
+- Module 8 covers AI Agents & Automation
+- You'll learn to build automated workflows
+- Hands-on projects include email automation, AI agents, and multi-agent systems
+
+Best regards,
+The AI Program Team
+
+---
+Generated on: 2026-08-04 10:02:31
